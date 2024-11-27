@@ -1,0 +1,5 @@
+process:
+1) store the maze in a 2d array
+2) find a path to the exit
+3) visually represent chosen path for debugging
+4) profit?
