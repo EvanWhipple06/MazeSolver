@@ -3,3 +3,11 @@ process:
 2) find a path to the exit
 3) visually represent chosen path for debugging
 4) profit?
+
+finding the shortest path:
+I could make it just take every single right turn because it goes clockwise for the checks and then when the whole path is found just cut every coordinate that repeats
+and everything between the ones that repeat
+
+1 correct path mazes completed
+
+how to complete open ended mazes??
